@@ -1,7 +1,7 @@
 {
   "name": "qamanualtest",
   "version": "1.0.0",
-  "description": "Learning project dor QA Manual course to try automation UI testing",
+  "description": "Learning project for QA Manual course to try automation UI testing",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
